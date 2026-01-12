@@ -1,0 +1,7 @@
+{
+  "name": "claude-notification-windows",
+  "version": "1.0.0",
+  "description": "Windows 桌面通知 - 权限请求、空闲等待、任务完成时发送通知",
+  "author": "Claude Code User",
+  "hooks": "hooks.json"
+}
