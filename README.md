@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> 此项目已合并到 [`Oreo992/claude-notification`](https://github.com/Oreo992/claude-notification)，当前仓库仅作为只读归档保留。
+
 # Claude Code Notification Plugin (Windows)
 
 Windows 桌面通知插件，在以下场景发送系统通知（仅当终端在后台时触发）：
